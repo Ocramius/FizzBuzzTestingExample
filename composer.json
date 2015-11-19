@@ -9,7 +9,7 @@
             "FizzBuzzTest\\": "test/FizzBuzzTest"
         }
     },
-    "require": {
+    "require-dev": {
         "phpunit/phpunit": "^5.0"
     }
 }
